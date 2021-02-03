@@ -1,0 +1,76 @@
+﻿@model OnlineShoppingMvc.Models.ProductDetails
+
+@{
+    ViewBag.Title = "GetByProductId";
+}
+
+<h2>GetByProductId</h2>
+
+<div>
+    <h4>ProductDetails</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pid)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProductName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Picture)
+        </dt>
+
+        <dd>
+            <img src="~/Images/@Model.Picture" width="300" height="300" />
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Content)
+        </dt>
+
+        <dd>
+            @Html.Raw(Model.Display())
+        </dd>
+
+    </dl>
+</div>
+
+<form class="d-flex" method="get" action="~/OnlineShopping/AddToCart">
+
+   
+    <button class="btn btn-outline-success" type="submit">AddToCart</button>
+
+
+</form>
+
+@*@<input type="submit" value="Add To Cart" action="AddToCart" class="btn-outline-success" />*@
+<form class="d-flex" method="get" action="~/OnlineShopping/BuyNow">
+
+
+    <button class="btn btn-outline-success" type="submit">BuyNow</button>
+
+
+</form>
+@*input type="submit" value="Buy Now" class="btn-outline-success" />
+<p>
+        @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>*@

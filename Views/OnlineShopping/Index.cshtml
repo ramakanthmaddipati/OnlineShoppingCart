@@ -1,0 +1,55 @@
+﻿@model IEnumerable<OnlineShoppingMvc.Models.Home>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@*<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+
+    <center>
+        <h1> My Online Shopping Site </h1>
+    </center>
+
+    
+    <table class="table">
+
+        <tr>
+
+            <td>
+                <img src="~/Images/onlineshopping.jfif" width="1100" height="500" />
+            </td>
+
+
+        </tr>
+
+        @foreach (var item in Model)
+        {
+
+            @*<td>
+                @Html.DisplayFor(modelItem => item.Picture)
+            </td>*@
+            @*<td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>*@
+            <tr>
+                <td>
+                    <form method="get" action="~/OnlineShopping/GetByCategory">
+                        <a href="GetByCategory?@item.CategoryId&name=@item.CategoryName">
+                            @Html.DisplayFor(modelItem => item.CategoryName)<br />
+                        </a>
+                    </form>
+                   
+                </td>
+
+            </tr>
+        }
+
+    </table>
+
+
