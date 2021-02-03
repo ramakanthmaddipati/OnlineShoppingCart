@@ -1,0 +1,12 @@
+D:\mode1 training c#\Online Shopping\Online Shopping\OnlineShoppingEntityLib\bin\Debug\OnlineShoppingEntityLib.dll
+D:\mode1 training c#\Online Shopping\Online Shopping\OnlineShoppingEntityLib\bin\Debug\OnlineShoppingEntityLib.pdb
+D:\mode1 training c#\Online Shopping\Online Shopping\OnlineShoppingEntityLib\obj\Debug\OnlineShoppingEntityLib.csproj.CoreCompileInputs.cache
+D:\mode1 training c#\Online Shopping\Online Shopping\OnlineShoppingEntityLib\obj\Debug\OnlineShoppingEntityLib.dll
+D:\mode1 training c#\Online Shopping\Online Shopping\OnlineShoppingEntityLib\obj\Debug\OnlineShoppingEntityLib.pdb
+D:\mode1 training c#\Online Shopping\Online Shopping\OnlineShoppingEntityLib\obj\Debug\OnlineShoppingEntityLib.csprojAssemblyReference.cache
+C:\Users\maddipati.chowdary\Downloads\Online Shopping\Online Shopping\Online Shopping\OnlineShoppingEntityLib\bin\Debug\OnlineShoppingEntityLib.dll
+C:\Users\maddipati.chowdary\Downloads\Online Shopping\Online Shopping\Online Shopping\OnlineShoppingEntityLib\bin\Debug\OnlineShoppingEntityLib.pdb
+C:\Users\maddipati.chowdary\Downloads\Online Shopping\Online Shopping\Online Shopping\OnlineShoppingEntityLib\obj\Debug\OnlineShoppingEntityLib.csprojAssemblyReference.cache
+C:\Users\maddipati.chowdary\Downloads\Online Shopping\Online Shopping\Online Shopping\OnlineShoppingEntityLib\obj\Debug\OnlineShoppingEntityLib.csproj.CoreCompileInputs.cache
+C:\Users\maddipati.chowdary\Downloads\Online Shopping\Online Shopping\Online Shopping\OnlineShoppingEntityLib\obj\Debug\OnlineShoppingEntityLib.dll
+C:\Users\maddipati.chowdary\Downloads\Online Shopping\Online Shopping\Online Shopping\OnlineShoppingEntityLib\obj\Debug\OnlineShoppingEntityLib.pdb
