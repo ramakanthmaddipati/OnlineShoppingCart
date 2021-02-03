@@ -1,0 +1,12 @@
+D:\mode1 training c#\Online Shopping\Online Shopping\OnlineShoppingExceptionLib\bin\Debug\OnlineShoppingExceptionLib.dll
+D:\mode1 training c#\Online Shopping\Online Shopping\OnlineShoppingExceptionLib\bin\Debug\OnlineShoppingExceptionLib.pdb
+D:\mode1 training c#\Online Shopping\Online Shopping\OnlineShoppingExceptionLib\obj\Debug\OnlineShoppingExceptionLib.csprojAssemblyReference.cache
+D:\mode1 training c#\Online Shopping\Online Shopping\OnlineShoppingExceptionLib\obj\Debug\OnlineShoppingExceptionLib.csproj.CoreCompileInputs.cache
+D:\mode1 training c#\Online Shopping\Online Shopping\OnlineShoppingExceptionLib\obj\Debug\OnlineShoppingExceptionLib.dll
+D:\mode1 training c#\Online Shopping\Online Shopping\OnlineShoppingExceptionLib\obj\Debug\OnlineShoppingExceptionLib.pdb
+C:\Users\maddipati.chowdary\Downloads\Online Shopping\Online Shopping\Online Shopping\OnlineShoppingExceptionLib\bin\Debug\OnlineShoppingExceptionLib.dll
+C:\Users\maddipati.chowdary\Downloads\Online Shopping\Online Shopping\Online Shopping\OnlineShoppingExceptionLib\bin\Debug\OnlineShoppingExceptionLib.pdb
+C:\Users\maddipati.chowdary\Downloads\Online Shopping\Online Shopping\Online Shopping\OnlineShoppingExceptionLib\obj\Debug\OnlineShoppingExceptionLib.csprojAssemblyReference.cache
+C:\Users\maddipati.chowdary\Downloads\Online Shopping\Online Shopping\Online Shopping\OnlineShoppingExceptionLib\obj\Debug\OnlineShoppingExceptionLib.csproj.CoreCompileInputs.cache
+C:\Users\maddipati.chowdary\Downloads\Online Shopping\Online Shopping\Online Shopping\OnlineShoppingExceptionLib\obj\Debug\OnlineShoppingExceptionLib.dll
+C:\Users\maddipati.chowdary\Downloads\Online Shopping\Online Shopping\Online Shopping\OnlineShoppingExceptionLib\obj\Debug\OnlineShoppingExceptionLib.pdb
